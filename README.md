@@ -1,3 +1,3 @@
 # Node JS Web server
 
-App link deployed on Heroku [Here](https://nodejs-webserver-valp.herokuapp.com/)[newtab]
+App link deployed on Heroku [Here](https://nodejs-webserver-valp.herokuapp.com){:target="_blank"}
